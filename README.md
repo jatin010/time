@@ -11,7 +11,7 @@ THANK YOU, AND LET'S KEEP LEARNING TOGETHER.
 
 JATIN BHARGAVA.#
 
-![image](https://github.com/user-attachments/assets/4886b3ae-ffda-4895-88e7-67758d0e219e)
+<CENTER>![image](https://github.com/user-attachments/assets/4886b3ae-ffda-4895-88e7-67758d0e219e)</CENTER>
 HTML
 
 ![image](https://github.com/user-attachments/assets/3a00e3dd-c448-4f13-ab2d-6f4f52da5c6b)
